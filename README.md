@@ -40,6 +40,16 @@ Here are a few of the relationships I visualized:
 
 ![image](https://user-images.githubusercontent.com/72377927/113348420-2b409a00-92fc-11eb-8739-83f993f5961e.png)
 
+Hypothesizing:
+
+Let's take a look at borrowers who are working to see if we can infer anything about borrowers who work and whether they have payment issues or not. For this exercise, we'll only look at borrowers that listed their income type as 'working' and ignore the rest. We will compare the top correlated feature (the rating of the region and city the client lives in) with a borrower's employment situation. We'll start with the null hypothesis.
+
+Null: There is no significance between employment, the region a borrower lives in, and payment issues.
+
+Alt: The relationship between employment, region rating, and payment issues is significant.
+
+![image](https://user-images.githubusercontent.com/72377927/113355046-c7bb6a00-9305-11eb-96b1-65579a3461ba.png)
+
 
 Machine Learning:
 
