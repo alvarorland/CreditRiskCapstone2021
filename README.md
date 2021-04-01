@@ -48,4 +48,10 @@ Precision, recall and the f1 score are better indicators of performance than acc
 ![image](https://user-images.githubusercontent.com/72377927/113348971-f254f500-92fc-11eb-96dd-24f40ecf2509.png)
 
 
+Results:
+
+Precision can be thought of as the fraction of positive predictions that actually belong to the positive class.  Recall can be thought of as the fraction of positive predictions out of all positive instances in the data set. The SVM model with a high recall and high precision means that it makes positive predictions that belong to the positive class and it's predictions make up most of the positive instances in the data set.
+
+
+
 
