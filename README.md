@@ -62,6 +62,16 @@ Results:
 
 Precision can be thought of as the fraction of positive predictions that actually belong to the positive class.  Recall can be thought of as the fraction of positive predictions out of all positive instances in the data set. The SVM model with a high recall and high precision means that it makes positive predictions that belong to the positive class and it's predictions make up most of the positive instances in the data set.
 
+Further Research:
 
+It would be interesting to measure discrimination bias, if any, in a dataset like this. Analysis of this data showed that a borrower's socioeconomic status does in fact influence their probability to default or not. Instead of building a simple classification model that either predicts if a borrower will default or not, a more precise model would return a probability of defaulting instead of a yes/no classification. A fluid scale like this would open up important dialogue between the financial institution and the borrwer. Perhaps the institution would offer a payment plan that is structured around the borrower's current situation or they'd offer leniency on late payments.
+
+Recommendations:
+
+Incentivize borrowers to opt into revolving loans instead of cash loans. This will provide a small safety net incase borrowers can't make a payment.
+
+Cap the amount of credit offered to higher risk individuals to 500K. Higher risk individuals in this case refers to working borrowers with low region-rating scores.
+
+Provide leniency/assisstance to borrowers with lower socio-economic standing. Low income women make up a lot of the defaultee cases. Getting rid of predatory loans and capping the credit limit would reduce defaultee rates, particularly among low income women.
 
 
