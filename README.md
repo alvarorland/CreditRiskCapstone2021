@@ -55,7 +55,8 @@ Machine Learning:
 
 Precision, recall and the f1 score are better indicators of performance than accuracy. While using oversampling and SMOTE to randomly increase instances of the minority class imporved metrics for the logistic regression, K-neighbors, and the decision tree models, the best model in this case is the SVM model. The SVM model gave the best scores and also provided instances of TP, FP, TN, and FN. A model that doesn't predict false positives or true positives is not very useful!
 
-![image](https://user-images.githubusercontent.com/72377927/113348971-f254f500-92fc-11eb-96dd-24f40ecf2509.png)
+![image](https://user-images.githubusercontent.com/72377927/113519440-ca120400-9551-11eb-8665-b658e92d2d84.png)
+
 
 
 Results:
